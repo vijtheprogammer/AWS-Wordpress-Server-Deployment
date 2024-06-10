@@ -1,4 +1,4 @@
-# AWS-Wordpress-Server-Deployment
+# AWS Wordpress Server Deployment
 
 This repository provides a guide to deploying a WordPress website on an AWS EC2 instance using Apache2 and MySQL. It includes DNS configuration with Route 53, SSL setup using AWS Certificate Manager (ACM), and the implementation of an Application Load Balancer (ALB) for enhanced availability and security.
 
